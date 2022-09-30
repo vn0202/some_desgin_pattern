@@ -1,0 +1,15 @@
+{
+    "name": "vannghia/some_desgin_pattern",
+    "autoload": {
+        "psr-4": {
+            "Vannghia\\SomeDesginPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vn0202",
+            "email": "nghiavuxp0202@gmail.com"
+        }
+    ],
+    "require": {}
+}
